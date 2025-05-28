@@ -1,2 +1,2 @@
-# git_rocketseat
-Uma lista de frases
+# Git RocketSeat
+Uma lista de frases d
