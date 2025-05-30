@@ -122,7 +122,3 @@ git checkout main
 Volta para a branch `main`.
 
 ---
-
-Em breve, mais conteúdos e dicas práticas! 🚀
-
----
